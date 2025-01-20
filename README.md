@@ -35,5 +35,6 @@ http://127.0.0.1:8000
 
 
 
-Framework
+## FYI
+### Framework
 Proyek ini dibangun menggunakan Laravel, sebuah framework PHP yang terkenal karena sintaksisnya yang elegan dan kemampuannya yang kuat. Laravel menyediakan fitur seperti migrasi database, ORM Eloquent, dan job queue untuk membangun aplikasi web yang modern dan skalabel.
